@@ -38,5 +38,12 @@ git@github.com:louiscklaw/drone-tryout.git
     - https://github.com/iNavFlight/inav
 
 
+### budgets:
+    - n/a
+
+### time plan:
+    - n/a
+
 ### tutorials:
     - https://github.com/cmaes/qav250build
+    - https://www.youtube.com/watch?v=TOfY590X4OY
